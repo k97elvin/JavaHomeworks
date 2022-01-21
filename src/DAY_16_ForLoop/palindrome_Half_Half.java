@@ -1,4 +1,4 @@
-package DAT_16_ForLoop;
+package DAY_16_ForLoop;
 
 public class palindrome_Half_Half {
     public static void main(String[] args) {

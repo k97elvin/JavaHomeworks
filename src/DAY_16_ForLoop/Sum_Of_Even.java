@@ -1,5 +1,5 @@
-package DAT_16_ForLoop;
-import java.util.Scanner;
+package DAY_16_ForLoop;
+
 public class Sum_Of_Even {
     public static void main(String[] args) {
 

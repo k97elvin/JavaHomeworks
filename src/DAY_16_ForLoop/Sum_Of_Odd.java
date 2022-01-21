@@ -1,4 +1,4 @@
-package DAT_16_ForLoop;
+package DAY_16_ForLoop;
 
 public class Sum_Of_Odd {
     public static void main(String[] args) {

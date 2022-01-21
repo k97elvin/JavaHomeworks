@@ -1,6 +1,5 @@
-package DAT_16_ForLoop;
+package DAY_16_ForLoop;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Replace_All_X_with_A {

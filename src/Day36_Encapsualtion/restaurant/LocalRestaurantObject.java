@@ -13,6 +13,8 @@ public class LocalRestaurantObject {
         System.out.println(restaurant1);
     }
 
+
+
 }
 /*
         6.4. Create a class LocalRestaurant that has a main method with the following:

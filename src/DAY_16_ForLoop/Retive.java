@@ -1,4 +1,4 @@
-package DAT_16_ForLoop;
+package DAY_16_ForLoop;
 
 import java.util.Scanner;
 
