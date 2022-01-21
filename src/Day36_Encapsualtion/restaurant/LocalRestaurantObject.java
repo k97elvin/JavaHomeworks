@@ -10,6 +10,9 @@ public class LocalRestaurantObject {
 
         Server[] servers = {server1, server2, server3};
 
+
+
+
         System.out.println(restaurant1);
     }
 
