@@ -1,4 +1,6 @@
-package DAY_16_ForLoop;
+package DAT_16_ForLoop;
+
+import java.util.Scanner;
 
 public class FINRA_Loop_Version {
     public static void main(String[] args) {

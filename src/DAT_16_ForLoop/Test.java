@@ -1,4 +1,4 @@
-package DAY_16_ForLoop;
+package DAT_16_ForLoop;
 
 public class Test {
     public static void main(String[] args) {
